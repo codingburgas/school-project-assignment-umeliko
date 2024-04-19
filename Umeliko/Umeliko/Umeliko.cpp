@@ -45,7 +45,7 @@ int main() {
         DrawTextEx(customFont, "Start Learning!", Vector2{ startButton.x + (startButton.width - buttonTextSize.x) / 2, startButton.y + (startButton.height - buttonTextSize.y) / 2 }, 40, 2, WHITE);
 
         if (buttonHover && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            // Sledvashta stranica
+            Texture2D background = LoadTexture("../assets/info.png");
         }
         EndDrawing();
     }
