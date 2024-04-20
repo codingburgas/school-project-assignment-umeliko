@@ -1,4 +1,5 @@
 #include "info.h"
+#include "subjects.h"
 
 void info()
 {
@@ -41,7 +42,7 @@ void info()
         EndDrawing();
 
         if (isMouseOverButton && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            // subjects
+            subjects();
         }
     }
 
