@@ -127,7 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="info.cpp" />
+    <ClCompile Include="mainMenu.cpp" />
     <ClCompile Include="Umeliko.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="info.h" />
+    <ClInclude Include="mainMenu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
