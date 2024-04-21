@@ -11,7 +11,7 @@ void mainMenu()
     Texture2D background = LoadTexture("../assets/background.png");
     Font customFont = LoadFont("../assets/font.ttf");
 
-    Rectangle startButton = { screenWidth / 2.0f - 115, screenHeight - 275, 300, 90 };
+    Rectangle startButton = { screenWidth / 2.0f - 115, screenHeight - 300, 310, 90 };
     bool buttonHover = false;
 
     const char* motivationalText = "Unlock your potential. Every journey begins with a single step.";
@@ -36,7 +36,7 @@ void mainMenu()
 
         DrawTextEx(customFont, "Umeliko", Vector2{ 850, 50 }, 70, 2, WHITE);
 
-        DrawRectangleRec(startButton, buttonHover ? DARKGRAY : DARKGRAY);
+        DrawRectangleRec(startButton, buttonHover ? BLACK : BLACK);
 
         Vector2 buttonTextSize = MeasureTextEx(customFont, "Start Learning!", 40, 2);
         DrawTextEx(customFont, "Start Learning!", Vector2{ startButton.x + (startButton.width - buttonTextSize.x) / 2, startButton.y + (startButton.height - buttonTextSize.y) / 2 }, 40, 2, WHITE);
