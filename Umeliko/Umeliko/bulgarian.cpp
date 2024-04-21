@@ -56,3 +56,4 @@ void bulgarian()
     UnloadTexture(background);
     CloseWindow();
 }
+

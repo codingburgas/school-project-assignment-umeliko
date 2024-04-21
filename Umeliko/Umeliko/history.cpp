@@ -14,11 +14,18 @@ void history()
     bool buttonHover = false;
 
     const char* infoText1 = "Learn here:";
-    const char* infoText2 = "";
-    const char* infoText3 = "";
-    const char* infoText4 = "";
-    const char* infoText5 = ""; 
-    const char* infoText6 = "";
+    const char* infoText2 = "Political Ideologies: ";
+    const char* infoText3 = "   We'll cover socialism,conservatism,authoritarianism,and liberalism,";
+    const char* infoText4 = "  with liberalism being a hallmark of the modern era.";
+    const char* infoText5 = "Ottoman Empire Reforms:"; 
+    const char* infoText6 = "   From 1839 to 1876, the Ottoman Empire underwent reforms";
+    const char* infoText7 = "  known as the Tanzimat era, modernizing its systems.";
+    const char* infoText8 = "American Constitution: ";
+    const char* infoText9 = "   Ratified in 1789, it established federalism and the separation of powers."; 
+    const char* infoText10 = "Bulgarian Revival: ";
+    const char* infoText11 = "  The cultural awakening in the early 19th century."; 
+    const char* infoText12 = "Giuseppe Garibaldi: A key figure in Italy's unification during the 19th century.";
+
     SetTargetFPS(60);
 
     while (!WindowShouldClose()) {
@@ -36,12 +43,19 @@ void history()
         DrawTexture(background, 0, 0, WHITE);
 
         DrawTextEx(customFont, "History", Vector2{ 800, 50 }, 59, 2, WHITE);
-        DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 45, 2, DARKGREEN); 
-        DrawTextEx(customFont, infoText2, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText3, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText4, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText5, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText6, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText1, Vector2{ 100, 150 }, 45, 2, DARKGREEN); 
+        DrawTextEx(customFont, infoText2, Vector2{ 100, 250 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText3, Vector2{ 100, 300 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText4, Vector2{ 100, 350 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText5, Vector2{ 100, 400 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText6, Vector2{ 100, 450 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText7, Vector2{ 100, 500 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText8, Vector2{ 100, 550 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText9, Vector2{ 100, 600 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText10, Vector2{ 100, 650 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText11, Vector2{ 100, 700 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText12, Vector2{ 100, 750 }, 45, 2, DARKGREEN);
+
         DrawRectangleRec(testButton, buttonHover ? DARKGRAY : DARKGRAY);
 
         DrawTextEx(customFont, "Take a test", Vector2{ testButton.x + 10, testButton.y + 10 }, 33, 2, WHITE);
