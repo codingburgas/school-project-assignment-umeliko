@@ -9,7 +9,7 @@ void bulgarian()
 
     Font customFont = LoadFont("../assets/font.ttf");
 
-    Rectangle testButton = { screenWidth - 1100, screenHeight - 270, 180, 50 };
+    Rectangle testButton = { screenWidth - 1060, screenHeight - 220, 200, 60 };
 
     bool buttonHover = false;
 
@@ -42,7 +42,7 @@ void bulgarian()
         DrawTextEx(customFont, infoText4, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
         DrawTextEx(customFont, infoText5, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
         DrawTextEx(customFont, infoText6, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
-        DrawRectangleRec(testButton, buttonHover ? DARKGRAY : DARKGRAY);
+        DrawRectangleRec(testButton, buttonHover ? BLACK: BLACK);
 
         DrawTextEx(customFont, "Take a test", Vector2{ testButton.x + 10, testButton.y + 10 }, 33, 2, WHITE);
 
