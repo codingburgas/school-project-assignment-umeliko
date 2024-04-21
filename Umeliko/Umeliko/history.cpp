@@ -36,7 +36,7 @@ void history()
         DrawTexture(background, 0, 0, WHITE);
 
         DrawTextEx(customFont, "History", Vector2{ 800, 50 }, 59, 2, WHITE);
-        DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 45, 2, DARKGREEN);  // Ot chisloto 45 se promenq razmera na teksta. Ako iskash da go napraish po maluk namalqsh nego
+        DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 45, 2, DARKGREEN); 
         DrawTextEx(customFont, infoText2, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
         DrawTextEx(customFont, infoText3, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
         DrawTextEx(customFont, infoText4, Vector2{ 100, 280 }, 45, 2, DARKGREEN);

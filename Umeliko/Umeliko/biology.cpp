@@ -34,7 +34,7 @@ void biology()
         DrawTexture(background, 0, 0, WHITE);
 
         DrawTextEx(customFont, "Biology", Vector2{ 800, 50 }, 59, 2, WHITE);
-        DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 45, 2, DARKGREEN);  // Ot chisloto 45 se promenq razmera na teksta. Ako iskash da go napraish po maluk namalqsh nego
+        DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 45, 2, DARKGREEN);  
 
         DrawRectangleRec(testButton, buttonHover ? DARKGRAY : DARKGRAY);
 
