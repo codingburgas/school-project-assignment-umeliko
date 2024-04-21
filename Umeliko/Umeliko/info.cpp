@@ -10,7 +10,7 @@ void info()
 
 	Font customFont = LoadFont("../assets/font.ttf");
 
-    Rectangle proceedButton = { screenWidth - 260, screenHeight - 200, 180, 50 };
+    Rectangle proceedButton = { screenWidth - 260, screenHeight - 225, 190, 60 };
 
     bool buttonHover = false;
 
@@ -43,7 +43,7 @@ void info()
         DrawTextEx(customFont, infoText3, Vector2{ 100, 380 }, 45, 2, DARKGREEN);
         DrawTextEx(customFont, infoText4, Vector2{ 100, 430 }, 45, 2, DARKGREEN); 
         DrawTextEx(customFont, infoText5, Vector2{ 100, 480 }, 45, 2, DARKGREEN);
-        DrawRectangleRec(proceedButton, buttonHover ? DARKGRAY : DARKGRAY);
+        DrawRectangleRec(proceedButton, buttonHover ? BLACK : BLACK);
 
         DrawTextEx(customFont, "PROCEED", Vector2{ proceedButton.x + 10, proceedButton.y + 10 }, 33, 2, WHITE);
 
