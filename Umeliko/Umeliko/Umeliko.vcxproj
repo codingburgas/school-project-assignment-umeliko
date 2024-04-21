@@ -131,6 +131,7 @@
     <ClCompile Include="bulgarian.cpp" />
     <ClCompile Include="geography.cpp" />
     <ClCompile Include="history.cpp" />
+    <ClCompile Include="historytest.cpp" />
     <ClCompile Include="info.cpp" />
     <ClCompile Include="mainMenu.cpp" />
     <ClCompile Include="subjects.cpp" />
@@ -141,6 +142,7 @@
     <ClInclude Include="bulgarian.h" />
     <ClInclude Include="geography.h" />
     <ClInclude Include="history.h" />
+    <ClInclude Include="historytest.h" />
     <ClInclude Include="info.h" />
     <ClInclude Include="mainMenu.h" />
     <ClInclude Include="subjects.h" />

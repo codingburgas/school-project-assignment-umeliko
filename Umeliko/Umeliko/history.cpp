@@ -1,5 +1,5 @@
 #include "history.h"
-
+#include "historytest.h"
 void history()
 {
     const int screenWidth = 1920;
