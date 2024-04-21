@@ -1,0 +1,5 @@
+﻿  data.cpp
+C:\Users\Alex\source\repos\data\data\data.cpp(68,9): error C2086: 'std::string rowSignUp': redefinition
+  C:\Users\Alex\source\repos\data\data\data.cpp(60,9):
+  see declaration of 'rowSignUp'
+  

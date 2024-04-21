@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|solutionrelative:Umeliko\\mainMenu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\info.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|solutionrelative:Umeliko\\info.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\bulgarian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|solutionrelative:Umeliko\\bulgarian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\historytest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|solutionrelative:Umeliko\\historytest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\biology.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|solutionrelative:Umeliko\\biology.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|solutionrelative:Umeliko\\history.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\geography.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|solutionrelative:Umeliko\\geography.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\subjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FAEFBFB-E4A3-4B96-B21E-FCF253E970DD}|Umeliko\\Umeliko.vcxproj|solutionrelative:Umeliko\\subjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "historytest.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\historytest.cpp",
+              "RelativeDocumentMoniker": "Umeliko\\historytest.cpp",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\historytest.cpp",
+              "RelativeToolTip": "Umeliko\\historytest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T16:59:52.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "biology.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\biology.cpp",
+              "RelativeDocumentMoniker": "Umeliko\\biology.cpp",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\biology.cpp",
+              "RelativeToolTip": "Umeliko\\biology.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T16:59:52.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "geography.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\geography.cpp",
+              "RelativeDocumentMoniker": "Umeliko\\geography.cpp",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\geography.cpp",
+              "RelativeToolTip": "Umeliko\\geography.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T16:59:52.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "history.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\history.cpp",
+              "RelativeDocumentMoniker": "Umeliko\\history.cpp",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\history.cpp",
+              "RelativeToolTip": "Umeliko\\history.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T16:59:52.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bulgarian.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\bulgarian.cpp",
+              "RelativeDocumentMoniker": "Umeliko\\bulgarian.cpp",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\bulgarian.cpp",
+              "RelativeToolTip": "Umeliko\\bulgarian.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T16:59:52.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "info.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\info.cpp",
+              "RelativeDocumentMoniker": "Umeliko\\info.cpp",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\info.cpp",
+              "RelativeToolTip": "Umeliko\\info.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T16:59:52.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "subjects.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\subjects.cpp",
+              "RelativeDocumentMoniker": "Umeliko\\subjects.cpp",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\subjects.cpp",
+              "RelativeToolTip": "Umeliko\\subjects.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T16:59:52.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainMenu.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\mainMenu.cpp",
+              "RelativeDocumentMoniker": "Umeliko\\mainMenu.cpp",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\school-project-assignment-umeliko\\Umeliko\\Umeliko\\mainMenu.cpp",
+              "RelativeToolTip": "Umeliko\\mainMenu.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T16:59:52.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

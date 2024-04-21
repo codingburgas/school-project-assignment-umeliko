@@ -1,0 +1,7 @@
+[
+	{"1-user":{"name": "Alex", "email": "alex.bg", "password" : "87654321", "result": 0, "profile" : true}}
+
+
+	,
+	{"2-user":{"name": "Tom", "email": "tom.bg", "password" : "12345678", "result": 100, "profile" : true}}
+]
