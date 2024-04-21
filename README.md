@@ -38,7 +38,7 @@ This application is an еlectronic school.
 
 ## See our documents here
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/587px-Microsoft_Word_2013-2019_logo.svg.png?20221202081051" width="15" height="15"> [Documentation](https://github.com/)  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" width="15" height="15"> [Presentation](Documents/Presentation-Umeliko.pptx)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" width="15" height="15"> [Presentation](https://codingburgas-my.sharepoint.com/:p:/g/personal/vrlazarov21_codingburgas_bg/EQQn-QlUA_hCs5oqZgQD3QsBcc8d2A21cOVbV8i-7g0R5w?e=iSCLdB)  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="15" height="15"> [QA documentaion](https://github.com/)
  
 ##
