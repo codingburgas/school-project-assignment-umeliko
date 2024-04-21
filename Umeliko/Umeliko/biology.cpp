@@ -14,7 +14,12 @@ void biology()
     bool buttonHover = false;
 
     const char* infoText1 = "Learn here:";
-    
+    const char* infoText2 = "";
+    const char* infoText3 = "";
+    const char* infoText4 = "";
+    const char* infoText5 = "";
+    const char* infoText6 = "";
+
 
 
     SetTargetFPS(60);
@@ -35,6 +40,11 @@ void biology()
 
         DrawTextEx(customFont, "Biology", Vector2{ 800, 50 }, 59, 2, WHITE);
         DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 45, 2, DARKGREEN);  
+        DrawTextEx(customFont, infoText2, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText3, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText4, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText5, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText6, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
 
         DrawRectangleRec(testButton, buttonHover ? DARKGRAY : DARKGRAY);
 
