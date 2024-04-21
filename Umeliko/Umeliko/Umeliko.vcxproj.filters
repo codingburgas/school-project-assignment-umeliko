@@ -27,6 +27,18 @@
     <ClCompile Include="subjects.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bulgarian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="history.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="geography.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="biology.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="mainMenu.h">
@@ -36,6 +48,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="subjects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bulgarian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="history.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="geography.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="biology.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

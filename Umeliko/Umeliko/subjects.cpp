@@ -1,4 +1,8 @@
 #include "subjects.h"
+#include "bulgarian.h"
+#include "history.h"
+#include "geography.h"
+#include "biology.h"
 
 void subjects()
 {
@@ -29,16 +33,16 @@ void subjects()
             DrawTextEx(customFont, button.label, Vector2{ button.rect.x + (button.rect.width / 2 - MeasureText(button.label, 20) / 2), button.rect.y + (button.rect.height / 2 - 10) }, 40, 2, WHITE);
         }
         if (CheckCollisionPointRec(GetMousePosition(), buttons[0].rect) && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            //bg
+            bulgarian();
         }
         if (CheckCollisionPointRec(GetMousePosition(), buttons[1].rect) && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            //istoriq
+            history();
         }
         if (CheckCollisionPointRec(GetMousePosition(), buttons[2].rect) && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            //geografiq
+            geography();
         }
         if (CheckCollisionPointRec(GetMousePosition(), buttons[3].rect) && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            //biologiq
+            biology();
         }
 
         EndDrawing();
