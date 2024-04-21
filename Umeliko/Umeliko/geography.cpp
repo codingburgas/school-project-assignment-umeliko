@@ -13,7 +13,7 @@ void geography()
 
     bool buttonHover = false;
 
-    const char* infoText1 = "sfgdhjsfg";
+    const char* infoText1 = "Learn here: ";
 
 
 

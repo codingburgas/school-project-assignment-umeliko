@@ -13,10 +13,10 @@ void subjects()
 
 	Font customFont = LoadFont("../assets/font.ttf");
     Button buttons[4];
-    buttons[0] = { { 350, 300, 350, 150 }, "Bulgarian" };
-    buttons[1] = { { 1000, 300, 350, 150 }, "History" };
-    buttons[2] = { { 350, 700, 350, 150 }, "Geography" };
-    buttons[3] = { { 1000, 700, 350, 150 }, "Biology" };
+    buttons[0] = { { 460, 280, 200, 100 }, "Bulgarian" };
+    buttons[1] = { { 1115, 280, 200, 100 }, "History" };
+    buttons[2] = { { 460, 620, 200, 100 }, "Geography" };
+    buttons[3] = { { 1125, 620, 200, 100 }, "Biology" };
 
     SetTargetFPS(60);
 
