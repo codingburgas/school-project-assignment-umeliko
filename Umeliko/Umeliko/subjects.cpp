@@ -25,8 +25,8 @@ void subjects()
 
         for (Button button : buttons) {
             bool isHover = CheckCollisionPointRec(GetMousePosition(), button.rect);
-            DrawRectangleRec(button.rect, isHover ? LIGHTGRAY : GRAY);
-            DrawTextEx(customFont, button.label, Vector2{ button.rect.x + (button.rect.width / 2 - MeasureText(button.label, 20) / 2), button.rect.y + (button.rect.height / 2 - 10) }, 40, 2, BLACK);
+            DrawRectangleRec(button.rect, isHover ? BLACK : BLACK);
+            DrawTextEx(customFont, button.label, Vector2{ button.rect.x + (button.rect.width / 2 - MeasureText(button.label, 20) / 2), button.rect.y + (button.rect.height / 2 - 10) }, 40, 2, WHITE);
         }
         if (CheckCollisionPointRec(GetMousePosition(), buttons[0].rect) && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
             //bg
