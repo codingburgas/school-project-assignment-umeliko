@@ -16,11 +16,11 @@ void biology()
     bool buttonHover = false;
 
     const char* infoText1 = "Learn here:";
-    const char* infoText2 = "";
-    const char* infoText3 = "";
-    const char* infoText4 = "";
-    const char* infoText5 = "";
-    const char* infoText6 = "";
+    const char* infoText2 = "During photosynthesis, plants use carbon dioxide and water to produce glucose and oxygen.";
+    const char* infoText3 = "Mitochondria are organelles that generate energy for the cell through cellular respiration.";
+    const char* infoText4 = "Viruses are not made up of cells; they are made up of genetic material (DNA or RNA) surrounded by a protein coat.";
+    const char* infoText5 = "An adult human typically has 206 bones.";
+    const char* infoText6 = "Hibernation is a survival strategy adopted by some animals to conserve energy during periods of food scarcity.";
 
 
 
