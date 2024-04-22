@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\Questions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6135D7E3-6D1D-4146-8B0E-4086DDE76AD5}|Questions\\Questions.vcxproj|C:\\Users\\Alex\\source\\repos\\Questions\\Questions\\Questions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6135D7E3-6D1D-4146-8B0E-4086DDE76AD5}|Questions\\Questions.vcxproj|solutionrelative:Questions\\Questions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Questions.cpp",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Questions\\Questions\\Questions.cpp",
+              "RelativeDocumentMoniker": "Questions\\Questions.cpp",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Questions\\Questions\\Questions.cpp",
+              "RelativeToolTip": "Questions\\Questions.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T16:13:54.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

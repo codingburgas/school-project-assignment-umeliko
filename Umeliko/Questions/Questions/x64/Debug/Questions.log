@@ -1,0 +1,6 @@
+﻿  Questions.cpp
+C:\Users\Alex\source\repos\Questions\Questions\Questions.cpp(31,2): error C3861: 'randomNum': identifier not found
+C:\Users\Alex\source\repos\Questions\Questions\Questions.cpp(57,4): error C3861: 'randomNum': identifier not found
+C:\Users\Alex\source\repos\Questions\Questions\Questions.cpp(89,4): error C3861: 'randomNum': identifier not found
+C:\Users\Alex\source\repos\Questions\Questions\Questions.cpp(121,4): error C3861: 'randomNum': identifier not found
+C:\Users\Alex\source\repos\Questions\Questions\Questions.cpp(153,4): error C3861: 'randomNum': identifier not found
