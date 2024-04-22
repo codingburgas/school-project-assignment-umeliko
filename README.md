@@ -34,7 +34,7 @@ This application is an еlectronic school.
 - <a href="https://github.com/DYKartalova22"> Daria Kartalova (Backend Developer)</a> <br>
 - <a href="https://github.com/AAVezirova22"> Ani Vezriova (Backend developer) </a><br>
 - <a href="https://github.com/KKAtanasova22"> Kalina Atanasova (Backend Developer) </a><br>
-- <a href="https://github.com/VRLazarov21"> Valentin Lazarov (Q&A) </a><br>
+- <a href="https://github.com/VRLazarov21"> Valentin Lazarov (QA Developer) </a><br>
 
 ## See our documents here
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Microsoft_Word_2013-2019_logo.svg/587px-Microsoft_Word_2013-2019_logo.svg.png?20221202081051" width="15" height="15"> [Documentation](https://codingburgas-my.sharepoint.com/:w:/g/personal/vrlazarov21_codingburgas_bg/ESUdLUAna5dCgq-g3dks_qIBnZL9Njp18cAnrN1JQKWMng?e=v8fN9z)  
