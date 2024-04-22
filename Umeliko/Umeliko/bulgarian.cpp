@@ -15,11 +15,11 @@ void bulgarian()
     bool buttonHover = false;
 
     const char* infoText1 = "Learn here:";
-    const char* infoText2 = "";
-    const char* infoText3 = "";
-    const char* infoText4 = "";
-    const char* infoText5 = "";
-    const char* infoText6 = "";
+    const char* infoText2 = "In Bulgarian, nouns are categorized into three genders: masculine, feminine, and neuter.";
+    const char* infoText3 = "The Bulgarian Cyrillic alphabet consists of 30 letters.";
+    const char* infoText4 = "In Bulgarian, the definite article is a suffix that is added to the end of the noun.";
+    const char* infoText5 = "Bulgarian is indeed a Slavic language, but it uses the Cyrillic alphabet, not the Latin alphabet.";
+    const char* infoText6 = "Verbs in Bulgarian have two aspects: perfective and imperfective.";
     SetTargetFPS(60);
 
     while (!WindowShouldClose()) {
