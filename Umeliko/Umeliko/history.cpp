@@ -1,5 +1,5 @@
 #include "history.h"
-#include "historytest.h"
+#include "historyTest.h"
 void history()
 {
     const int screenWidth = 1920;
@@ -63,7 +63,7 @@ void history()
         EndDrawing();
 
         if (isMouseOverButton && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            // test
+            historyTest();
         }
     }
 

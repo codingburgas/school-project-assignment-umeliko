@@ -39,7 +39,16 @@
     <ClCompile Include="biology.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="historytest.cpp">
+    <ClCompile Include="historyTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bulgarianTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="geographyTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="biologyTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -65,7 +74,16 @@
     <ClInclude Include="biology.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="historytest.h">
+    <ClInclude Include="historyTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="biologyTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="bulgarianTest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="geographyTest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

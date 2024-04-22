@@ -1,4 +1,6 @@
 #include "biology.h"
+#include "biologyTest.h"
+
 
 void biology()
 {
@@ -53,7 +55,7 @@ void biology()
         EndDrawing();
 
         if (isMouseOverButton && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            // test
+            biologyTest();
         }
     }
 

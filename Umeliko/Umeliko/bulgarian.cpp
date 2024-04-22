@@ -1,4 +1,5 @@
 #include "bulgarian.h"
+#include "bulgarianTest.h"
 
 void bulgarian()
 {
@@ -49,7 +50,7 @@ void bulgarian()
         EndDrawing();
 
         if (isMouseOverButton && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            // test
+            bulgarianTest();
         }
     }
 

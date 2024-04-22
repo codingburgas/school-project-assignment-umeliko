@@ -128,10 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="biology.cpp" />
+    <ClCompile Include="biologyTest.cpp" />
     <ClCompile Include="bulgarian.cpp" />
+    <ClCompile Include="bulgarianTest.cpp" />
     <ClCompile Include="geography.cpp" />
+    <ClCompile Include="geographyTest.cpp" />
     <ClCompile Include="history.cpp" />
-    <ClCompile Include="historytest.cpp" />
+    <ClCompile Include="historyTest.cpp" />
     <ClCompile Include="info.cpp" />
     <ClCompile Include="mainMenu.cpp" />
     <ClCompile Include="subjects.cpp" />
@@ -139,10 +142,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="biology.h" />
+    <ClInclude Include="biologyTest.h" />
     <ClInclude Include="bulgarian.h" />
+    <ClInclude Include="bulgarianTest.h" />
     <ClInclude Include="geography.h" />
+    <ClInclude Include="geographyTest.h" />
     <ClInclude Include="history.h" />
-    <ClInclude Include="historytest.h" />
+    <ClInclude Include="historyTest.h" />
     <ClInclude Include="info.h" />
     <ClInclude Include="mainMenu.h" />
     <ClInclude Include="subjects.h" />

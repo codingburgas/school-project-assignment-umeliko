@@ -1,4 +1,5 @@
 #include "geography.h"
+#include "geographyTest.h"
 
 void geography()
 {
@@ -49,7 +50,7 @@ void geography()
         EndDrawing();
 
         if (isMouseOverButton && IsMouseButtonPressed(MOUSE_LEFT_BUTTON)) {
-            // test
+            geographyTest();
         }
     }
 
