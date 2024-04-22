@@ -27,8 +27,11 @@ void geographyTest()
 
 
     vector<Question> questions = {
-        {"Vupros", "Opciq1", "Opciq2", 1}, //nai poslednoto chislo e pravilniq otgovor
-        {"Vupros2", "Opciq1", "Opciq2", 2},
+        {"The capital of France is Berlin.", "True", "False", 2},
+        {"Mount Everest is the tallest mountain in the world.", "True", "False", 1},
+        {"The Sahara Desert is the largest hot desert in the world.", "True", "False", 1},
+        {"The Amazon River is the longest river in the world.", "True", "False", 2},
+        {"Australia is both a country and a continent.", "True", "False", 1},
     };
 
 

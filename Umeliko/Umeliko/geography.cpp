@@ -37,12 +37,12 @@ void geography()
         DrawTexture(background, 0, 0, WHITE);
 
         DrawTextEx(customFont, "Geography", Vector2{ 800, 50 }, 59, 2, WHITE);
-        DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 45, 2, DARKGREEN);  
-        DrawTextEx(customFont, infoText2, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText3, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText4, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText5, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText6, Vector2{ 100, 280 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 30, 2, DARKGREEN);  
+        DrawTextEx(customFont, infoText2, Vector2{ 100, 320 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText3, Vector2{ 100, 360 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText4, Vector2{ 100, 400 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText5, Vector2{ 100, 440 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText6, Vector2{ 100, 480 }, 30, 2, DARKGREEN);
         DrawRectangleRec(testButton, buttonHover ? BLACK : BLACK);
 
         DrawTextEx(customFont, "Take a test", Vector2{ testButton.x + 10, testButton.y + 10 }, 33, 2, WHITE);

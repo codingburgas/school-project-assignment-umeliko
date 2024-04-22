@@ -43,18 +43,18 @@ void history()
         DrawTexture(background, 0, 0, WHITE);
 
         DrawTextEx(customFont, "History", Vector2{ 810, 50 }, 59, 2, WHITE);
-        DrawTextEx(customFont, infoText1, Vector2{ 100, 190 }, 45, 2, DARKGREEN); 
-        DrawTextEx(customFont, infoText2, Vector2{ 100, 250 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText3, Vector2{ 100, 300 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText4, Vector2{ 100, 350 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText5, Vector2{ 100, 400 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText6, Vector2{ 100, 450 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText7, Vector2{ 100, 500 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText8, Vector2{ 100, 550 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText9, Vector2{ 100, 600 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText10, Vector2{ 100, 650 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText11, Vector2{ 100, 700 }, 45, 2, DARKGREEN);
-        DrawTextEx(customFont, infoText12, Vector2{ 100, 750 }, 45, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText1, Vector2{ 100, 190 }, 30, 2, DARKGREEN); 
+        DrawTextEx(customFont, infoText2, Vector2{ 100, 250 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText3, Vector2{ 100, 300 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText4, Vector2{ 100, 350 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText5, Vector2{ 100, 400 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText6, Vector2{ 100, 450 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText7, Vector2{ 100, 500 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText8, Vector2{ 100, 550 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText9, Vector2{ 100, 600 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText10, Vector2{ 100, 650 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText11, Vector2{ 100, 700 }, 30, 2, DARKGREEN);
+        DrawTextEx(customFont, infoText12, Vector2{ 100, 750 }, 30, 2, DARKGREEN);
 
         DrawRectangleRec(testButton, buttonHover ? BLACK : BLACK);
 

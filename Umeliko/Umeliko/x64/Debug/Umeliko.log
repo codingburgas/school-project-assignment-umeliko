@@ -1,16 +1,6 @@
-﻿  biology.cpp
-  biologyTest.cpp
-  bulgarian.cpp
-  bulgarianTest.cpp
-  geography.cpp
-  geographyTest.cpp
+﻿  geography.cpp
   history.cpp
-  historyTest.cpp
-  info.cpp
-  mainMenu.cpp
-  subjects.cpp
-  Umeliko.cpp
   Generating Code...
-  Umeliko.vcxproj -> C:\Users\35989\Downloads\school-project-assignment-umeliko\Umeliko\x64\Debug\Umeliko.exe
+  Umeliko.vcxproj -> C:\Users\Alex\source\repos\school-project-assignment-umeliko\Umeliko\x64\Debug\Umeliko.exe
   'pwsh.exe' is not recognized as an internal or external command,
   operable program or batch file.
