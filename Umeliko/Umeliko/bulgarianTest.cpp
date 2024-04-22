@@ -27,8 +27,11 @@ void bulgarianTest()
 
 
     vector<Question> questions = {
-        {"Vupros", "Opciq1", "Opciq2", 1}, //nai poslednoto chislo e pravilniq otgovor
-        {"Vupros2", "Opciq1", "Opciq2", 2},
+        {"In Bulgarian, nouns are categorized into three genders: masculine, feminine, and neuter.", "True", "False", 1}, 
+        {"The Bulgarian Cyrillic alphabet consists of 30 letters", "True", "False", 2}, 
+        {"In Bulgarian, the definite article is a suffix that is added to the end of the noun.", "True", "False", 1},
+        {"Bulgarian is indeed a Slavic language, but it uses the Cyrillic alphabet, not the Latin alphabet.", "True", "False", 2},
+        {"Verbs in Bulgarian have two aspects: perfective and imperfective.", "True", "False", 1},
     };
 
 
