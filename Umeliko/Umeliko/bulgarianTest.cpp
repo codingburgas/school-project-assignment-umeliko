@@ -32,6 +32,11 @@ void bulgarianTest()
         {"In Bulgarian, the definite article is a suffix that is added to the end of the noun.", "True", "False", 1},
         {"Bulgarian is indeed a Slavic language, but it uses the Cyrillic alphabet, not the Latin alphabet.", "True", "False", 2},
         {"Verbs in Bulgarian have two aspects: perfective and imperfective.", "True", "False", 1},
+        {"In Bulgarian, nouns are categorized into four genders: masculine, feminine, neuter, and common.", "True", "False", 2},
+        {"The Bulgarian Cyrillic alphabet consists of 32 letters.", "True", "False", 2},
+        {"In Bulgarian, the definite article is a suffix that is added to the end of the noun.", "True", "False", 1},
+        {"Bulgarian is a Romance language that uses the Cyrillic alphabet.", "True", "False", 2},
+        {"Verbs in Bulgarian have three aspects: perfective, imperfective, and subjunctive.", "True", "False", 2},
     };
 
 

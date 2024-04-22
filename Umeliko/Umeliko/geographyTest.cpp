@@ -32,6 +32,11 @@ void geographyTest()
         {"The Sahara Desert is the largest hot desert in the world.", "True", "False", 1},
         {"The Amazon River is the longest river in the world.", "True", "False", 2},
         {"Australia is both a country and a continent.", "True", "False", 1},
+        {"Australia is the smallest continent and also the name of the country.", "True", "False", 1},
+        {"The capital of France is Paris.", "True", "False", 1},
+        {"Mount Everest, located in the Alps, is the tallest mountain above sea level.", "True", "False", 2},
+        {"The Sahara Desert in Asia is the largest hot desert globally.", "True", "False", 2},
+        {"Africa is the smallest continent and also the name of the country. ", "True", "False", 2},
     };
 
 
