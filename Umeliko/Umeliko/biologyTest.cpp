@@ -27,8 +27,11 @@ void biologyTest()
 
 
     vector<Question> questions = {
-        {"Vupros", "Opciq1", "Opciq2", 1}, //nai poslednoto chislo e pravilniq otgovor
-        {"Vupros2", "Opciq1", "Opciq2", 2},
+        {"Plants produce oxygen during photosynthesis.", "True", "False", 1}, 
+        {"The mitochondria are known as the powerhouse of the cell.", "True", "False", 1},
+        {"All viruses are made up of cells.", "True", "False", 2},
+        {"The human body has 206 bones.", "True", "False", 1},
+        {"Hibernation is a state of prolonged sleep in animals during the winter.", "True", "False", 1},
     };
 
 
