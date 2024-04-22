@@ -15,11 +15,11 @@ void geography()
     bool buttonHover = false;
 
     const char* infoText1 = "Learn here:";
-    const char* infoText2 = ""; 
-    const char* infoText3 = "";
-    const char* infoText4 = "";
-    const char* infoText5 = "";
-    const char* infoText6 = "";
+    const char* infoText2 = "The capital of France is Paris."; 
+    const char* infoText3 = "Mount Everest, located in the Himalayas, is the tallest mountain above sea level.";
+    const char* infoText4 = "The Sahara Desert in Africa is the largest hot desert globally.";
+    const char* infoText5 = "The Nile River in Africa is the longest river in the world.";
+    const char* infoText6 = "Australia is the smallest continent and also the name of the country.";
     SetTargetFPS(60);
 
     while (!WindowShouldClose()) {
