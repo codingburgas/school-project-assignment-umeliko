@@ -27,8 +27,26 @@ void historyTest()
 
 
     vector<Question> questions = {
-        {"Vupros", "Opciq1", "Opciq2", 1}, //nai poslednoto chislo e pravilniq otgovor
-        {"Vupros2", "Opciq1", "Opciq2", 2},
+        {"Socialism advocates for the collective ownership of the means of production.", "True", "False", 1},
+        {"Conservatism typically emphasizes maintaining traditional institutions and values.", "True", "False", 1},
+        {"Authoritarianism prioritizes individual liberties and freedoms.", "True", "False", 2},
+        {"Liberalism is a prominent political ideology in contemporary society.", "True", "False", 1},
+        {"The Tanzimat era saw the Ottoman Empire implementing modernizing reforms.", "True", "False", 1},
+        {"The Ottoman Empire underwent reforms from 1839 to 1876.", "True", "False", 1},
+        {"The American Constitution was ratified in 1889.", "True", "False", 2},
+        {"The American Constitution established federalism and the separation of powers.", "True", "False", 1},
+        {"The Bulgarian Revival refers to a cultural awakening in the late 19th century.", "True", "False", 2},
+        {"Giuseppe Garibaldi played a significant role in Germany's unification in the 19th century.", "True", "False", 2},
+        {"Socialism advocates for a free - market economy.", "True", "False", 2},
+        {"Conservatism emphasizes radical societal changes.", "True", "False", 2},
+        {"Authoritarianism prioritizes individual freedoms over state control.", "True", "False", 2},
+        {"Liberalism promotes limited government intervention in the economy.", "True", "False", 1},
+        {"The Tanzimat era occurred during the late 17th century.", "True", "False", 2},
+        {"The American Constitution was established in the 18th century.", "True", "False", 1},
+        {"The Bulgarian Revival occurred during the Renaissance period.", "True", "False", 2},
+        {"Giuseppe Garibaldi played a crucial role in Italy's unification in the 19th century.", "True", "False", 1},
+        {"Socialism advocates for a classless society.", "True", "False", 1},
+        {"Conservatism opposes the preservation of traditional values.", "True", "False", 2},
     };
 
 
