@@ -27,16 +27,16 @@ void biologyTest()
 
 
     vector<Question> questions = {
-        {"During photosynthesis, plants use carbon dioxide and water to produce glucose and oxygen.", "True", "False", 1}, 
-        {"Mitochondria are organelles that generate energy for the cell through cellular respiration. ", "True", "False", 1},
-        {"An adult human typically has 106 bones.", "True", "False", 2},
-        {"Viruses are primarily composed of cells.", "True", "False", 2},
+        {"Plants produce oxygen during photosynthesis.", "True", "False", 1}, 
+        {"The mitochondria are known as the powerhouse of the cell.", "True", "False", 1},
+        {"All viruses are made up of cells.", "True", "False", 2},
+        {"The human body has 206 bones.", "True", "False", 1},
         {"Hibernation is a state of prolonged sleep in animals during the winter.", "True", "False", 1},
-        {"During photosynthesis, plants use oxygen and sunlight to produce glucose and oxygen.", "True", "False", 2},
-        {"The nucleus is the organelle that generates energy for the cell through cellular respiration.", "True", "False", 2},
-        {"Viruses are primarily composed of genetic material surrounded by a protein coat.", "True", "False", 1},
-        {"An adult human typically has 206 bones.", "True", "False", 1}
-        {"Migration is a survival strategy adopted by some animals to conserve energy during periods of food scarcity. ", "True", "False", 2},
+        {"Plants produce oxygen during photosynthesis.", "True", "False", 1},
+        {"The mitochondria are known as the powerhouse of the cell.", "True", "False", 1},
+        {"All viruses are made up of cells.", "True", "False", 2},
+        {"The human body has 206 bones.", "True", "False", 1},
+        {"Hibernation is a state of prolonged sleep in animals during the winter.", "True", "False", 1},
     };
 
 
