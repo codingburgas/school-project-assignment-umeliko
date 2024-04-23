@@ -1,5 +1,4 @@
-﻿  Umeliko.cpp
-  biology.cpp
+﻿  biology.cpp
   biologyTest.cpp
   bulgarian.cpp
   bulgarianTest.cpp
@@ -10,7 +9,7 @@
   info.cpp
   mainMenu.cpp
   subjects.cpp
+  Umeliko.cpp
   Generating Code...
-  Umeliko.vcxproj -> C:\Users\Alex\source\repos\school-project-assignment-umeliko\Umeliko\x64\Debug\Umeliko.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
+  LINK : C:\Users\Lenovo\source\repos\school-project-assignment-umeliko\Umeliko\x64\Debug\Umeliko.exe not found or not built by the last incremental link; performing full link
+  Umeliko.vcxproj -> C:\Users\Lenovo\source\repos\school-project-assignment-umeliko\Umeliko\x64\Debug\Umeliko.exe

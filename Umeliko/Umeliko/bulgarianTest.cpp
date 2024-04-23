@@ -27,16 +27,45 @@ void bulgarianTest()
 
 
     vector<Question> questions = {
-        {"In Bulgarian, nouns are categorized into three genders: masculine, feminine, and neuter.", "True", "False", 1}, 
-        {"The Bulgarian Cyrillic alphabet consists of 30 letters", "True", "False", 2}, 
-        {"In Bulgarian, the definite article is a suffix that is added to the end of the noun.", "True", "False", 1},
-        {"Bulgarian is indeed a Slavic language, but it uses the Cyrillic alphabet, not the Latin alphabet.", "True", "False", 2},
-        {"Verbs in Bulgarian have two aspects: perfective and imperfective.", "True", "False", 1},
-        {"In Bulgarian, nouns are categorized into three genders: masculine, feminine, and neuter.", "True", "False", 1},
-        {"The Bulgarian Cyrillic alphabet consists of 30 letters", "True", "False", 2},
-        {"In Bulgarian, the definite article is a suffix that is added to the end of the noun.", "True", "False", 1},
-        {"Bulgarian is indeed a Slavic language, but it uses the Cyrillic alphabet, not the Latin alphabet.", "True", "False", 2},
-        {"Verbs in Bulgarian have two aspects: perfective and imperfective.", "True", "False", 1},
+        {"What are nouns categorized into in Bulgarian?", "Masculine, feminine, and common", "Masculine, feminine, and neuter", 2}, 
+        
+        {"How many letters are there in the Bulgarian Cyrillic alphabet?", "26 letters", "30 letters", 2}, 
+        
+        {"How is the definite article used in Bulgarian grammar?", "As a prefix added to the beginning of the noun", "As a suffix added to the end of the noun", 2},
+        
+        {"Is Bulgarian written using the Cyrillic or Latin alphabet?", " Latin alphabet", "Cyrillic alphabet", 2},
+        
+        {"How many aspects do verbs have in Bulgarian?", "One", "Two", 2},
+        
+        {"In Bulgarian, how are nouns classified?", "Masculine, feminine, and neutral", "Masculine, feminine, and neuter", 2},
+        
+        {"How many letters are there in the Bulgarian Cyrillic alphabet?", "25 letters", "30 letters", 2},
+        
+        {"In Bulgarian grammar, where is the definite article placed?", "In front of the noun", "At the end of the noun", 2},
+        
+        {"Is Bulgarian written using the Latin or Cyrillic alphabet?", " Latin alphabet", "Cyrillic alphabet", 2},
+        
+        {"How many aspects do Bulgarian verbs typically have?", "Singular", "Two", 2},
+        
+        {"In Bulgarian, how are nouns divided into categories?", "Masculine, feminine, and common", "Masculine, feminine, and neuter", 2},
+        
+        {"How many letters does the Bulgarian Cyrillic alphabet comprise?", "26 letters", "30 letters", 2},
+        
+        {"Where does the definite article usually appear in Bulgarian grammar?", "Before the noun", "After the noun", 2},
+        
+        {"Is Bulgarian typically written using the Latin or Cyrillic alphabet?", "Latin alphabet", "Cyrillic alphabet", 2},
+        
+        {"How many aspects do Bulgarian verbs possess?", "One", "Two", 2},
+        
+        {"In Bulgarian, how are nouns classified?", "Masculine, feminine, and common", "Masculine, feminine, and neuter", 2},
+        
+        {"How many letters does the Bulgarian Cyrillic alphabet consist of?", "25 letters", "30 letters", 2},
+        
+        {"In Bulgarian grammar, where does the definite article attach?", "In front of the noun", "After the noun", 2},
+        
+        {"Is Bulgarian typically written using the Latin or Cyrillic alphabet?", "Latin alphabet", "Cyrillic alphabet", 2},
+        
+        {"How many aspects do Bulgarian verbs usually have?", "Singular", "Two", 2},
     };
 
 

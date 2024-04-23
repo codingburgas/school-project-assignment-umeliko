@@ -27,16 +27,45 @@ void biologyTest()
 
 
     vector<Question> questions = {
-        {"Plants produce oxygen during photosynthesis.", "True", "False", 1}, 
-        {"The mitochondria are known as the powerhouse of the cell.", "True", "False", 1},
-        {"All viruses are made up of cells.", "True", "False", 2},
-        {"The human body has 206 bones.", "True", "False", 1},
-        {"Hibernation is a state of prolonged sleep in animals during the winter.", "True", "False", 1},
-        {"Plants produce oxygen during photosynthesis.", "True", "False", 1},
-        {"The mitochondria are known as the powerhouse of the cell.", "True", "False", 1},
-        {"All viruses are made up of cells.", "True", "False", 2},
-        {"The human body has 206 bones.", "True", "False", 1},
-        {"Hibernation is a state of prolonged sleep in animals during the winter.", "True", "False", 1},
+        {"During photosynthesis, what do plants use to produce glucose and oxygen?", "Carbon dioxide and water", "Oxygen and sunlight", 1}, 
+        
+        {"What organelles generate energy for the cell through cellular respiration?", "Mitochondria", " Chloroplasts", 1},
+        
+        {"What are viruses primarily composed of?", " Cells", "Genetic material surrounded by a protein coat ", 2},
+        
+        {"How many bones does an adult human typically have?", "106 bones", "206 bones", 2},
+        
+        {"What survival strategy do some animals adopt to conserve energy during periods of food scarcity?", "Hibernation", "Migration", 1},
+        
+        {"During photosynthesis, what substances are used to produce glucose and oxygen?", " Oxygen and sunlight", " Carbon dioxide and water", 2},
+        
+        {"Which organelles generate energy for the cell through cellular respiration?", "Nucleus b", "Mitochondria", 2},
+        
+        {"What is the primary composition of viruses?", " Cells", "Genetic material surrounded by a protein coat", 2},
+        
+        {"What is the survival strategy adopted by some animals to conserve energy during periods of food scarcity?", "Migration", "Hibernation", 2},
+        
+        {"What process do plants use to produce glucose and oxygen?", "Respiration", "Photosynthesis", 2},
+        
+        {"Which cellular organelles generate energy for the cell?", "Ribosomes", "Mitochondria", 2},
+        
+        {"What strategy do some animals adopt to conserve energy during periods of food scarcity?", "Hibernation", "Migration", 1},
+        
+        {"What organelles are responsible for synthesizing proteins within the cell?", "Ribosomes", " Golgi apparatus", 1},
+        
+        {"Which organelles contain enzymes that break down waste materials within the cell?", "Lysosomes", "Mitochondria", 1},
+        
+        {"What organelles are responsible for packaging and sorting proteins for transport within the cell?", "Ribosomes", "Golgi apparatus", 2},
+        
+        {"Which organelles are involved in lipid synthesis and detoxification of harmful substances within the cell?", "Endoplasmic reticulum", " Chloroplasts", 1},
+        
+        {"What organelles contain chlorophyll and are responsible for photosynthesis in plant cells?", "Nucleus", "Chloroplasts", 2},
+        
+        {"Which organelles regulate cell division and contain the cell's genetic material?", "Nucleus", "Vacuoles", 1},
+        
+        {"What organelles are involved in maintaining cell shape, providing structural support, and facilitating cell movement?", "Cytoskeleton", "Endoplasmic reticulum", 1},
+        
+        {"Which organelles are responsible for the synthesis of ATP through cellular respiration?", "Ribosomes", "Mitochondria", 2},
     };
 
 

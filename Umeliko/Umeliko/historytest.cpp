@@ -27,26 +27,45 @@ void historyTest()
 
 
     vector<Question> questions = {
-        {"Socialism advocates for the collective ownership of the means of production.", "True", "False", 1},
-        {"Conservatism typically emphasizes maintaining traditional institutions and values.", "True", "False", 1},
-        {"Authoritarianism prioritizes individual liberties and freedoms.", "True", "False", 2},
-        {"Liberalism is a prominent political ideology in contemporary society.", "True", "False", 1},
-        {"The Tanzimat era saw the Ottoman Empire implementing modernizing reforms.", "True", "False", 1},
-        {"The Ottoman Empire underwent reforms from 1839 to 1876.", "True", "False", 1},
-        {"The American Constitution was ratified in 1889.", "True", "False", 2},
-        {"The American Constitution established federalism and the separation of powers.", "True", "False", 1},
-        {"The Bulgarian Revival refers to a cultural awakening in the late 19th century.", "True", "False", 2},
-        {"Giuseppe Garibaldi played a significant role in Germany's unification in the 19th century.", "True", "False", 2},
-        {"Socialism advocates for a free - market economy.", "True", "False", 2},
-        {"Conservatism emphasizes radical societal changes.", "True", "False", 2},
-        {"Authoritarianism prioritizes individual freedoms over state control.", "True", "False", 2},
-        {"Liberalism promotes limited government intervention in the economy.", "True", "False", 1},
-        {"The Tanzimat era occurred during the late 17th century.", "True", "False", 2},
-        {"The American Constitution was established in the 18th century.", "True", "False", 1},
-        {"The Bulgarian Revival occurred during the Renaissance period.", "True", "False", 2},
-        {"Giuseppe Garibaldi played a crucial role in Italy's unification in the 19th century.", "True", "False", 1},
-        {"Socialism advocates for a classless society.", "True", "False", 1},
-        {"Conservatism opposes the preservation of traditional values.", "True", "False", 2},
+        {"What political ideologies are covered?", "Socialism and liberalism", "Socialism, conservatism, authoritarianism, and liberalism", 2},
+        
+        {"Which ideology is considered a hallmark of the modern era?", "Conservatism", "Liberalism", 2},
+        
+        {"What historical era saw reforms in the Ottoman Empire?", "Renaissance", "Tanzimat era", 2},
+        
+        {"What was the period of Ottoman Empire reforms?", "1739-1876", "1839-1876", 2},
+        
+        {"When was the American Constitution ratified?", "1776", "1789", 2},
+        
+        {"What did the American Constitution establish?", "Autocracy", "Federalism and separation of powers", 2},
+        
+        {"What is the Bulgarian Revival?", "Political movement", "Cultural awakening", 2},
+        
+        {"When did the Bulgarian Revival occur?", "Early 18th century", "Early 19th century", 2},
+        
+        {"Who was Giuseppe Garibaldi?", " Military leader", "Religious figure", 1},
+        
+        {"What did Giuseppe Garibaldi contribute to in the 19th century?", "Italy's division", "Italy's unification", 2},
+        
+        {"What ideologies are studied in political ideologies?", "Socialism and conservatism", "Socialism, conservatism, authoritarianism, and liberalism ", 2},
+        
+        {"Which ideology characterizes the modern era?", "Conservatism", "Liberalism", 2},
+        
+        {"What period witnessed reforms in the Ottoman Empire?", "Medieval era", "Tanzimat era", 2},
+        
+        {"When did the Ottoman Empire undergo reforms?", "1700s", "1839-1876", 2},
+        
+        {"When was the American Constitution ratified?", "1776", "1789", 2},
+        
+        {"What did the American Constitution establish?", "Monarchy", "Federalism and separation of powers", 2},
+        
+        {"What does the Bulgarian Revival refer to?", "Political movement", "Cultural awakening", 2},
+        
+        {"When did the Bulgarian Revival take place?", "Late 18th century", "Early 19th century", 2},
+        
+        {"Who was Giuseppe Garibaldi?", "Scientist", "Military leader", 2},
+        
+        {"What was Giuseppe Garibaldi's role in the 19th century?", " Dividing Italy", "Unifying Italy", 2},
     };
 
 

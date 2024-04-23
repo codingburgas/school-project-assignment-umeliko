@@ -3,3 +3,4 @@ C:\Users\anive\OneDrive\Desktop\daskalo\9 klas\school-project-assignment-umeliko
 C:\Users\35989\Downloads\school-project-assignment-umeliko\Umeliko\Umeliko\x64\Debug\Umeliko.vcxproj.CopyComplete
 C:\Users\Alex\OneDrive\Работен плот\school-project-assignment-umeliko\Umeliko\Umeliko\x64\Debug\Umeliko.vcxproj.Up2Date
 C:\Users\Alex\source\repos\school-project-assignment-umeliko\Umeliko\Umeliko\x64\Debug\Umeliko.vcxproj.Up2Date
+C:\Users\Lenovo\source\repos\school-project-assignment-umeliko\Umeliko\Umeliko\x64\Debug\Umeliko.vcxproj.Up2Date

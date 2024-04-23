@@ -27,16 +27,45 @@ void geographyTest()
 
 
     vector<Question> questions = {
-        {"The capital of France is Berlin.", "True", "False", 2},
-        {"Mount Everest is the tallest mountain in the world.", "True", "False", 1},
-        {"The Sahara Desert is the largest hot desert in the world.", "True", "False", 1},
-        {"The Amazon River is the longest river in the world.", "True", "False", 2},
-        {"Australia is both a country and a continent.", "True", "False", 1},
-        {"The capital of France is Berlin.", "True", "False", 2},
-        {"Mount Everest is the tallest mountain in the world.", "True", "False", 1},
-        {"The Sahara Desert is the largest hot desert in the world.", "True", "False", 1},
-        {"The Amazon River is the longest river in the world.", "True", "False", 2},
-        {"Australia is both a country and a continent.", "True", "False", 1},
+        {"What is the capital of France?", "Paris", "London", 1},
+        
+        {"Which mountain is the tallest above sea level?", "Mount Everest", "Mount Kilimanjaro", 1},
+        
+        {"What is the largest hot desert globally?", "Sahara Desert", "Gobi Desert", 1},
+        
+        {"Which river is the longest in the world?", "Nile River", " Amazon River", 1},
+        
+        {"Which continent is the smallest and also the name of a country?", "Australia", "Asia", 1},
+        
+        {"What is the capital of France?", "London", "Paris", 2},
+        
+        {"Which mountain is the tallest above sea level?", "Mount Kilimanjaro", "Mount Everest", 2},
+        
+        {"What is the largest hot desert globally?", "Gobi Desert", "Sahara Desert", 2},
+        
+        {"Which river is the longest in the world?", "Amazon River", "Nile River", 2},
+        
+        {"Which continent is the smallest and also the name of a country?", "Asia", "Australia", 2},
+        
+        {"What is the capital of France?", "Paris", "New York", 1},
+        
+        {"Which mountain is the tallest above sea level?", "Mount Everest", "Mount Fuji", 1},
+        
+        {"What is the largest hot desert globally?", " Sahara Desert", "Atacama Desert", 1},
+        
+        {"Which river is the longest in the world?", " Amazon River", "Nile River", 2},
+        
+        {"Which continent is the smallest and also the name of a country?", "Europe", "Australia", 2},
+        
+        {"What is the capital of France?", "Paris", "Beijing", 1},
+        
+        {"Which mountain is the tallest above sea level?", "Mount Everest", "Mount McKinley", 1},
+        
+        {"What is the largest hot desert globally?", "Sahara Desert", "Kalahari Desert", 1},
+        
+        {"Which river is the longest in the world?", "Amazon River", "Nile River", 2},
+        
+        {"Which continent is the smallest and also the name of a country?", "Africa", "Australia", 2},
     };
 
 
