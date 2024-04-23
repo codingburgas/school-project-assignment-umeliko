@@ -37,7 +37,7 @@ void bulgarian()
         DrawTexture(background, 0, 0, WHITE);
 
         DrawTextEx(customFont, "Bulgarian", Vector2{ 800, 50 }, 59, 2, WHITE);
-        DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 30, 2, DARKGREEN);  // Ot 45 se promenq razmera na teksta
+        DrawTextEx(customFont, infoText1, Vector2{ 100, 280 }, 30, 2, DARKGREEN);
         DrawTextEx(customFont, infoText2, Vector2{ 100, 320 }, 30, 2, DARKGREEN);
         DrawTextEx(customFont, infoText3, Vector2{ 100, 360 }, 30, 2, DARKGREEN);
         DrawTextEx(customFont, infoText4, Vector2{ 100, 400 }, 30, 2, DARKGREEN);
