@@ -16,7 +16,7 @@ This application is an еlectronic school.
  
 ## Used technologies
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png" width="15" height="15"> C++ <br>
-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" width="15" height="15"> Raylib <br>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/640px-Visual_Studio_Icon_2022.svg.png" width="15" height="15"> Visual Studio <br>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MicroTeams.png/640px-MicroTeams.png" width="15" height="15"> Microsoft Teams <br>
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/640px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="15" height="15"> Microsoft Excel <br>
